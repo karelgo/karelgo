@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karelgo
-- 💞️ I’m looking to collaborate on whatever comes my way
-- 📫 How to reach me -> email karelgoense@gmail.com
+- 💞️ A pragmatic and enthuasiastic data and analytics solutions architect (and developer)!
+- 📫 How to reach me -> https://www.linkedin.com/in/karel-goense/ 
 
 <!---
 karelgo/karelgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
